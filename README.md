@@ -5,6 +5,9 @@
 - 📫 How to reach me: **tomala_jakub@tutanota.com**
 
 ### Languages and tools:
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/" title="Pycharm"><img src="icons/pycharm.png" /></a>
